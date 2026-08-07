@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+venv/
+ENV/
+env/
+
+# macOS
+.DS_Store
+
+# Generated audio data
+separated/
+library.json
+
+# Logs and temporary files
+*.log
