@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Toma - 2 - 128",
+    "file_path": "/Users/melinafathi/Desktop/Projects/DJ/Songs/Toma - 2 - 128.mp3",
+    "bpm": 120.2,
+    "key": "F# Major",
+    "camelot_key": "2B",
+    "stems_dir": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/Toma - 2 - 128",
+    "stems": {
+      "vocals": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/Toma - 2 - 128/vocals.wav",
+      "drums": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/Toma - 2 - 128/drums.wav",
+      "bass": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/Toma - 2 - 128/bass.wav",
+      "other": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/Toma - 2 - 128/other.wav"
+    },
+    "transition_to_next": {
+      "type": "beatmatch",
+      "target_bpm": 120.2,
+      "mode": "standard",
+      "reason": "Harmonic match (2B -> 1B) & BPM match (120.2 -> 129.2)"
+    }
+  },
+  {
+    "title": "_Timber (feat. Ke_ha) - 9 - 128",
+    "file_path": "/Users/melinafathi/Desktop/Projects/DJ/Songs/_Timber (feat. Ke_ha) - 9 - 128.mp3",
+    "bpm": 129.2,
+    "key": "B Major",
+    "camelot_key": "1B",
+    "stems_dir": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/_Timber (feat. Ke_ha) - 9 - 128",
+    "stems": {
+      "vocals": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/_Timber (feat. Ke_ha) - 9 - 128/vocals.wav",
+      "drums": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/_Timber (feat. Ke_ha) - 9 - 128/drums.wav",
+      "bass": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/_Timber (feat. Ke_ha) - 9 - 128/bass.wav",
+      "other": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/_Timber (feat. Ke_ha) - 9 - 128/other.wav"
+    },
+    "transition_to_next": {
+      "type": "fade",
+      "reason": "Incompatible: Keys (1B vs 4A) or BPMs (129.2 vs 129.2)"
+    }
+  },
+  {
+    "title": "Sean Paul - 4 - 128",
+    "file_path": "/Users/melinafathi/Desktop/Projects/DJ/Songs/Sean Paul - 4 - 128.mp3",
+    "bpm": 129.2,
+    "key": "F Minor",
+    "camelot_key": "4A",
+    "stems_dir": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/Sean Paul - 4 - 128",
+    "stems": {
+      "vocals": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/Sean Paul - 4 - 128/vocals.wav",
+      "drums": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/Sean Paul - 4 - 128/drums.wav",
+      "bass": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/Sean Paul - 4 - 128/bass.wav",
+      "other": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/Sean Paul - 4 - 128/other.wav"
+    },
+    "transition_to_next": {
+      "type": "fade",
+      "reason": "Incompatible: Keys (4A vs 1B) or BPMs (129.2 vs 191.4)"
+    }
+  },
+  {
+    "title": "Mala - Remix - 10 - 128",
+    "file_path": "/Users/melinafathi/Desktop/Projects/DJ/Songs/Mala - Remix - 10 - 128.mp3",
+    "bpm": 191.4,
+    "key": "B Major",
+    "camelot_key": "1B",
+    "stems_dir": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/Mala - Remix - 10 - 128",
+    "stems": {
+      "vocals": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/Mala - Remix - 10 - 128/vocals.wav",
+      "drums": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/Mala - Remix - 10 - 128/drums.wav",
+      "bass": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/Mala - Remix - 10 - 128/bass.wav",
+      "other": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/Mala - Remix - 10 - 128/other.wav"
+    },
+    "transition_to_next": {
+      "type": "fade",
+      "reason": "Incompatible: Keys (1B vs 10B) or BPMs (191.4 vs 120.2)"
+    }
+  },
+  {
+    "title": "Wild Wild Love - 1 - 128",
+    "file_path": "/Users/melinafathi/Desktop/Projects/DJ/Songs/Wild Wild Love - 1 - 128.mp3",
+    "bpm": 120.2,
+    "key": "D Major",
+    "camelot_key": "10B",
+    "stems_dir": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/Wild Wild Love - 1 - 128",
+    "stems": {
+      "vocals": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/Wild Wild Love - 1 - 128/vocals.wav",
+      "drums": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/Wild Wild Love - 1 - 128/drums.wav",
+      "bass": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/Wild Wild Love - 1 - 128/bass.wav",
+      "other": "/Users/melinafathi/Desktop/Projects/DJ/separated/htdemucs/Wild Wild Love - 1 - 128/other.wav"
+    },
+    "transition_to_next": null
+  }
+]
