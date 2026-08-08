@@ -9,6 +9,8 @@ on:
 jobs:
   auto-commit:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Explicitly grants push permissions to the runner token
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
