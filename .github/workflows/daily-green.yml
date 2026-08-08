@@ -1,0 +1,21 @@
+name: Daily Contribution Graph Keeper
+
+on:
+  schedule:
+    # Runs every day at 12:00 PM UTC
+    - cron: '0 12 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create auto-commit
+        run: |
+          git config --global user.name "Meellinaa"
+          git config --global user.email "mfathid@uwo.ca"
+          git commit --allow-empty -m "Chore: daily contribution sync"
+          git push
